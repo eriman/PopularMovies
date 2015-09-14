@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="movie_detail">MovieDetail</string>
+    <string name="popularity">Popularity</string>
+    <string name="key_popularity" translatable="false">Popularity</string>
+    <string name="highest_rated">Highest rated</string>
+    <string name="key_highest_rated" translatable="false">Highest rated</string>
+    <string name="sort_by">Sort by</string>
+    <string name="key_sort_by" translatable="false">Sort by</string>
+    <string name="no_internet_connection" >No internet connection!</string>
+    <string name="data_error" >Error when downloading!</string>
+</resources>

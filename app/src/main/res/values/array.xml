@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="entryValues">
+        <item>@string/key_popularity</item>
+        <item>@string/key_highest_rated</item>
+    </array>
+    <array name="entries">
+        <item>@string/popularity</item>
+        <item>@string/highest_rated</item>
+    </array>
+</resources>
